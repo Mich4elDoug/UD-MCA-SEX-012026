@@ -7,12 +7,12 @@ Trabalha:
 Objetivo:
 
 Nome completo: Guilherme Pontes Santos
-RA: 
-Curso: 
-Semestre: 
-Bairro: 
-Trabalha: 
-Objetivo: 
+RA: 823122036
+Curso: Engenharia de Software
+Semestre: 7° semestre
+Bairro: Itaim
+Trabalha: Sou Freelancer
+Objetivo: Liberdade Financeira
 
 Nome completo: Matheus Cunha da Silva
 RA: 
