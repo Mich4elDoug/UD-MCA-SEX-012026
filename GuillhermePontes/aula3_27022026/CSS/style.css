@@ -1,0 +1,48 @@
+body {
+background-color: #f4f4f4;
+font-family: Arial;
+}
+
+img {
+    width: 300px;
+    border-radius: 10px;
+}
+
+header {
+background-color: #003366;
+color: white;
+padding: 20px;
+text-align: center;
+
+}
+
+span {
+    font-weight: bold;
+}
+
+
+a {
+color: white;
+text-decoration: none;
+padding: 12px 25px;
+background-color: rgb(42, 58, 207);
+border-radius: 5px;
+}
+
+a:hover {
+    background-color: rgb(60, 74, 196);
+}
+
+.description {
+    max-width: 500px;
+}
+
+.btn {
+    margin-top: 30px;
+}
+
+.destaque {
+background-color: white;
+padding: 15px;
+border-radius: 8px;
+}
