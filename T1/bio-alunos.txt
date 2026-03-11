@@ -1,10 +1,10 @@
 Nome completo: Michael Douglas Braga
-RA:
-Curso:
-Semestre:
-Bairro:
-Trabalha:
-Objetivo:
+RA: 823114204
+Curso: Engenharia de Software
+Semestre: 7° semestre
+Bairro: Mooca
+Trabalha: Sim. Atualmente trabalho com investimentos/TI 
+Objetivo: Mestrado em TI
 
 Nome completo: Guilherme Pontes Santos
 RA: 823122036
