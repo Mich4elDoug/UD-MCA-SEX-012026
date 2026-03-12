@@ -15,12 +15,12 @@ Trabalha: Sou Freelancer
 Objetivo: Liberdade Financeira
 
 Nome completo: Matheus Cunha da Silva
-RA: 
-Curso: 
-Semestre: 
-Bairro: 
-Trabalha: 
-Objetivo: 
+RA: 823128178
+Curso: Engenharia de Software
+Semestre: 7° semestre
+Bairro: Santo André
+Trabalha: Analista de Engenharia de Dados 
+Objetivo: Ter CREA pra trabalhar como Engenheiro de Dados
 
 Nome completo: Igor Pereira dos Santos
 RA: 
