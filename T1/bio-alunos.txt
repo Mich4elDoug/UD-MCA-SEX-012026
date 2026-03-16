@@ -23,12 +23,12 @@ Trabalha: Analista de Engenharia de Dados
 Objetivo: Ter CREA pra trabalhar como Engenheiro de Dados
 
 Nome completo: Igor Pereira dos Santos
-RA: 
-Curso: 
-Semestre: 
-Bairro: 
-Trabalha: 
-Objetivo: 
+RA: 823117978
+Curso: Engenharia de Software
+Semestre: 7° semestre
+Bairro: Belém
+Trabalha: Engenheiro de Software
+Objetivo: Ser especialista em IA e em engenharia.
 
 Nome completo: Gustavo Xavier Figueredo
 RA: 823113981
