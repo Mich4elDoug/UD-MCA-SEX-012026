@@ -31,9 +31,9 @@ Trabalha:
 Objetivo: 
 
 Nome completo: Gustavo Xavier Figueredo
-RA: 
-Curso: 
-Semestre: 
-Bairro: 
-Trabalha: 
-Objetivo:
+RA: 823113981
+Curso: Engenharia de Software
+Semestre: 7 semestre
+Bairro: Parque Bancário
+Trabalha: Analista de investimentos
+Objetivo: Ser empresário e usar análise de dados com maestria
